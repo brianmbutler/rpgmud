@@ -1,0 +1,17 @@
+{
+    "spells": [
+       {
+           "name" : "attack",
+           "damage" : 5
+       },
+       {
+           "name" : "magic missile",
+           "damage" : 4
+       },
+       {
+            "name" : "acid breath",
+            "damage" : 2
+    }
+   ]
+   }
+   

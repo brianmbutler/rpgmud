@@ -1,0 +1,14 @@
+{
+ "professions": [
+    {
+        "profession" : "Fighter",
+        "start_hp" : 20,
+        "spells" : ["attack"]
+    },
+    {
+        "profession" : "Mage",
+        "start_hp" : 10,
+        "spells" : ["magic missile", "acid breath"]
+    }
+]
+}
